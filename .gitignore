@@ -1,7 +1,18 @@
 __pycahe__
-app/__pycache__/
-app/database/__pycache__/
+
+app/__pycache__
+
+app/database/__pycache__
+
 *.venv
+
+.venv
+
 *.idea
+
+.idea
+
 *.gitignore
+
+.gitignore
 
